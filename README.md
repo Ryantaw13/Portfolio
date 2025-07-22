@@ -1,2 +1,1 @@
-# Portfolio
-My portfolio.
+A constantly updated portfolio about me, my skills, and my projects.
