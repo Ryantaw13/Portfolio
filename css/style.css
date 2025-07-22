@@ -1664,12 +1664,12 @@ li.sub-menu-item.nav-item-has-children i {
   position: relative;
 }
 
-.hero-section .intro-inner h1 span::after {
-  content: url(../images/rec-shape.svg);
+/* .hero-section .intro-inner h1 span::after {
+  content: url(../images/rec-shape1.png);
   position: absolute;
   left: 5px;
   z-index: -1;
-}
+} */
 
 .hero-section .intro-inner p {
   font-size: var(--dm-fs-18px);
