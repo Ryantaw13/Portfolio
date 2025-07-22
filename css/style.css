@@ -47,12 +47,12 @@
   --ff-inter: 'Inter', sans-serif;
   --ff-dm: 'DM Sans', sans-serif;
 
-  --clr-primary: #28e98c;
-  --clr-green-100: rgba(40, 233, 140, 0.1);
-  --clr-green-200: rgba(40, 233, 140, 0.2);
-  --clr-green-300: rgba(40, 233, 140, 0.3);
-  --clr-deep-green: #136a13;
-  --clr-light-green: #e9fdf3;
+  --clr-primary: #28b9e9;
+  --clr-green-100: rgba(40, 140, 233, 0.1);
+  --clr-green-200: rgba(82, 40, 233, 0.2);
+  --clr-green-300: rgba(40, 104, 233, 0.3);
+  --clr-deep-green: #115ca8;
+  --clr-light-green: #e9fbfd;
   --clr-black: #0f1115;
   --clr-white: #fff;
   --clr-gray: #909090;
